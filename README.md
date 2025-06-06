@@ -68,8 +68,4 @@ Sinta-se à vontade para contribuir para este projeto. Você pode criar novos re
 
 - Matheus Battisti
 - Daniel Pedro Araujo Pereira (Desenvolvedor Web - Front-End)
-
-## Agradecimentos
-
-Agradecemos a todas as pessoas e recursos que ajudaram na criação deste projeto. Isso deve fornecer uma visão geral do seu projeto de pizzaria em PHP e ajudar os desenvolvedores a configurar e entender como funciona. Certifique-se de adaptar o README com informações específicas ao seu projeto.
 ```
